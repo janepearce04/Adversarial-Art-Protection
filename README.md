@@ -428,19 +428,6 @@ This implementation is based on adversarial machine learning research:
 - ✅ FP16 memory optimization
 - ✅ Validation suite
 
-**v2.0 (Planned)**:
-- ⬜ Batch processing support
-- ⬜ CLI interface with argparse
-- ⬜ Support for SD 2.x / SDXL
-- ⬜ Transferability across model architectures
-- ⬜ GUI application
-
-**v3.0 (Future)**:
-- ⬜ Plugin system for custom attacks
-- ⬜ Cloud processing support
-- ⬜ Watermark integration
-- ⬜ Real-time protection API
-
 ---
 
 ## 📄 License
@@ -494,8 +481,6 @@ This tool is designed for **defensive purposes only**. Users should:
 
 - [Glaze](https://glaze.cs.uchicago.edu/) - Style mimicry protection
 - [Nightshade](https://nightshade.cs.uchicago.edu/) - Concept poisoning
-- [Mist](https://mist.cs.uchicago.edu/) - Watermarking for diffusion models
-
 ---
 
 **Star this repository if you find it useful! Contributions and feedback are welcome.**
