@@ -313,7 +313,6 @@ adversarial-art-protection/
 ├── secure_protector.py      # SecureArtProtector (cryptographic version)
 ├── test_protection.py       # ProtectionTester (validation suite)
 ├── test.py                  # Quick usage example
-├── CLAUDE.md                # AI assistant instructions
 ├── README.md                # This file
 └── examples/                # (Optional) Example images and outputs
 ```
