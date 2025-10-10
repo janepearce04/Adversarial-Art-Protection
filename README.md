@@ -27,7 +27,7 @@ This is a **defensive security tool** designed to protect intellectual property 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/adversarial-art-protection.git
+git clone https://github.com/icantdo/adversarial-art-protection.git
 cd adversarial-art-protection
 
 # Install dependencies
