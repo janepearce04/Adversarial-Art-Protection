@@ -462,7 +462,7 @@ SOFTWARE.
 
 ## 📧 Contact
 
-[Add contact information, Discord server, or discussion forum]
+muzant9 - Discord
 
 ## ⚠️ Ethical Considerations
 
