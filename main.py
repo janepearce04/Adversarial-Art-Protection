@@ -179,8 +179,8 @@ class WorkingArtProtector:
 # Simple usage example
 if __name__ == "__main__":
     # Configuration
-    INPUT_IMAGE = "G0RxGvPW4AAvihx.jpeg"  # ← CHANGE THIS
-    OUTPUT_IMAGE = "protected_image.jpg"
+    INPUT_IMAGE = "PFP JANE2025.jpg"  # ← CHANGE THIS
+    OUTPUT_IMAGE = "protected_image_PFP.jpg"
 
     # Check if image exists
     if not os.path.exists(INPUT_IMAGE):
